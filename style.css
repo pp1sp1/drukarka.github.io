@@ -1,0 +1,19 @@
+
+#map{
+    position: absolute; /* Pozycjonowanie kontrolek */
+    top: 80px;
+    left: 0px;
+
+}
+
+#controls {
+    position: absolute; /* Pozycjonowanie kontrolek */
+    top: 10px;
+    left: 10px;
+}
+
+#controls button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
